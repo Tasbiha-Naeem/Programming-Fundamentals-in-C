@@ -1,2 +1,1 @@
-# Programming-Fundamentals-in-C
-Programming Fundamentals in C
+I started my programming journey with C because it is a foundational language that helps build core programming skills. C provides a strong understanding of how programs interact with hardware, including concepts like memory management, pointers, and low-level operations. By learning C, I can strengthen my problem-solving abilities and gain a better grasp of fundamental concepts like loops, functions, and data structures. It also opens doors to understanding advanced topics such as operating systems, embedded systems, and systems programming. This solid foundation will make it easier for me to learn other high-level languages and become a well-rounded software developer.
