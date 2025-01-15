@@ -25,14 +25,14 @@ int main(){
 	printf("The dot product of vector A and vector B is %d\n",dot_product);
 	magnitude_of_A=sqrt(a1*a1+a2*a2+a3*a3);
 	magnitude_of_B=sqrt(b1*b1+b2*b2+b3*b3);
-	 if(magnitude_of_A==0||magnitude_of_B==0){
-       printf("The angle cannot be determined because one of the vectors is zero.\n");
-       return 0;
-    }
-    else{
+	if(magnitude_of_A==0||magnitude_of_B==0){
+        printf("The angle cannot be determined because one of the vectors is zero.\n");
+        return 0;
+        }
+        else{
     	angle=acos(dot_product/(magnitude_of_A*magnitude_of_B));
-	    angle=angle*(180/m_pi);
-	    printf("The angle between vector A and vector B is:%.2f",angle);
+	angle=angle*(180/m_pi);
+	printf("The angle between vector A and vector B is:%.2f",angle);
 	}
 	return 0;
 }
