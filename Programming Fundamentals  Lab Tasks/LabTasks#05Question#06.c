@@ -44,7 +44,7 @@ int main(){
 			amount=150*quantity;
 			break;
 			default:
-				printf("Invalid choice.Please enter the write choice:\n");
+			printf("Invalid choice.Please enter the write choice:\n");
 		}
 		 total_charges+=amount;
 	}
