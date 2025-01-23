@@ -17,7 +17,7 @@ int main(){
 	printf("%d ",arr[i]);
 	}
 	printf("\n");
-    for(int i=0;i<10;i++){
+        for(int i=0;i<10;i++){
     	if(maximum_element<arr[i]){
     		maximum_element=arr[i];
 		}
