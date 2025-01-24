@@ -1,6 +1,6 @@
 /*Write a C Program to compute the LCM and GCD of two numbers.
 LCM is a number which is divisible by both a and b
-GCD -> Greatest common divisor*/
+GCD -> Greatest common divisor is a number which divide both a and b*/
 #include<stdio.h>
 int main(){
 	int a,b,lcm,gcd;
