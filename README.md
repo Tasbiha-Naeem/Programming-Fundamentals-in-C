@@ -9,5 +9,5 @@ I started my programming journey with C because it is a foundational language th
 8. Structures
 9. Recursion
 10. File Handling
-10.Dynamic Memory Allocation
+11.Dynamic Memory Allocation
 
