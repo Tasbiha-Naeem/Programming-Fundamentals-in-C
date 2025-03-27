@@ -25,7 +25,7 @@ int main(){
 	}
 	average_number=total_sum/10;
 	printf("The highest number is %d\n",highest_number);
-	printf("The average number is %.0f\n",average_number);
+	printf("The average number is %.2f\n",average_number);
 	printf("The minimum number is %d",minimum_number);
 	return 0;
 }
