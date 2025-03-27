@@ -33,7 +33,7 @@ int main(){
                 total_accounts++;
                 total_ids++;
 
-                // Update minimum validity
+                
                 if (validity[total_accounts - 1] < minimum_validity) {
                     minimum_validity = validity[total_accounts - 1];
                 }
